@@ -1,5 +1,5 @@
 # Overview
-An end‑to‑end exploratory data analysis of Netflix dataset using Python. The project cleans, explores, and visualizes movies and TV shows to uncover trends in content type, release patterns, ratings, duration, genres, and country distribution.
+An end‑to‑end exploratory data analysis of the Netflix dataset using Python. The project cleans, explores, and visualizes movies and TV shows to uncover trends in content type, release patterns, ratings, and genres.
 
 # Dataset
 The Netflix dataset, which contains fields such as Release_Date, Title, Popularity, Vote_Count, Vote_Average, Original_Language, and Genre, is used in the analysis of this project.
